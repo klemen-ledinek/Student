@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "226597930615",
+    "project_id": "student2-69c92"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226597930615:android:a475f1178f4ba1fc",
+        "android_client_info": {
+          "package_name": "com.student.ledo.student2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226597930615-q20rnkgd0f0hhb8rtm8il5h8fe9b5jnd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.student.ledo.student2",
+            "certificate_hash": "C8227AB6EEF4BE51982FC0A641ED0D84D170AEEE"
+          }
+        },
+        {
+          "client_id": "226597930615-c1ad2gf161rc709a07msar8oh6t15l81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkNxTbuf3X77NQLOZbpNBKY4u_qENFxvE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
